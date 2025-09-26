@@ -1,5 +1,5 @@
 <!-- Header Section -->
-![Header Image](https://www.linkedin.com/in/mahemud-borgave-b01762231/overlay/background-image/)
+![Profile Banner](Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 
 # 👋 Hi, I'm Mahemud Borgave
 I'm a passionate developer, learner, and problem solver.
